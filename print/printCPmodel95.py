@@ -6,7 +6,7 @@ def recursion_print_list(input_list, target_index = None):
     target_index = 0 if target_index is None else target_index
     print(input_list[target_index])
     if target_index == list_end:
-        return
+        return 0
     else:
         recursion_print_list(input_list, target_index + 1)
 
