@@ -1,4 +1,4 @@
-![title](https://github.com/cmdline-batchelor/recursion/master/img/infinite-mirror.png)
+![title](https://github.com/cmdline-batchelor/recursion/blob/master/img/infinite-mirror.png)
 
 # Its recursion time fuck loops
 
