@@ -5,9 +5,6 @@
 
 All things recusion and functional
 
----
-
-
 
 ## These are all different ways of pushing 500 intergers to a list
 
