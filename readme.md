@@ -45,17 +45,17 @@ def recurse(i=0):
 recurse()
 ```
 
-## Now look at their speeds 
+## Look at their speeds 
 
 ![speeds](https://github.com/cmdline-batcheloranator/recursion/blob/master/img/speed.png)
 
 
 ## Orders of speeds
 
-1. listComp.py:   2.718e-05
-2. map.py:        5.507e-05
-4. loop.py:       8.512e-05
-3. recursion.py   5.329e-04
+1. listComp.py:  ` 2.718e-05`
+2. map.py:       ` 5.507e-05`
+4. loop.py:      ` 8.512e-05`
+3. recursion.py  ` 5.329e-04`
 
 ## % Comparison of speeds
 
