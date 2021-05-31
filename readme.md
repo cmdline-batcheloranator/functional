@@ -52,35 +52,47 @@ recurse()
 
 ## Orders of speeds
 
-1. listComp.py:  
+1. list.py:
 
-` 2.718e-05`
+`1.216e-05`
 
-2. map.py:       
+2. listComp.py:  
 
-` 5.507e-05`
+` 2.503e-05`
 
-3. loop.py:      
+3. map.py:       
 
-` 8.512e-05`
+` 5.364e-05`
 
-4. recursion.py  
+4. loop.py:      
 
-` 5.329e-04`
+` 1.622e-05`
+
+5. recursion.py  
+
+` 3.379e-04`
 
 ## % Comparison of speeds
 
+list.py is:
+
+- 205.8% faster than listComp.py
+- 441.1% faster than map.py  
+- 788.2% faster than loop.py
+- 2779% faster than recursion.py  
+
+
 listComp.py is:
 
-- 202.6% faster than map.py
-- 313.2% faster than loop.py 
-- 2447% faster than recursion.py
+- 214.3% faster than map.py
+- 382.9% faster than loop.py 
+- 1400% faster than recursion.py
 
 map.py is:
 
-- 154.6% faster than loop.py  
-- 967.7% faster than recursion.py
+- 178.7% faster than loop.py  
+- 629.9% faster than recursion.py
 
 loop.py is:
 
-- 626.1% faster than recursion.py
+- 352.6% faster than recursion.py
