@@ -7,6 +7,11 @@ All things recusion and functional
 
 
 ## These are all different ways of pushing 500 intergers to a list
+list.py:
+
+```python
+x = list(range(500))
+```
 
 listComp.py:
 
