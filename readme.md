@@ -24,23 +24,23 @@ loop.py:
 
 ```python
 i = 0
-lst =  []
+x =  []
 
 for i in range(500): 
      i += 1
-     lst.append(i)
+     x.append(i)
 ```
 
 recursion.py:
 
 ```python
-lst =  []
+x =  []
 
 def recurse(i=0):
     if i == 500:
         return 0
     recurse(i+1)
-    return lst.append(i)
+    return x.append(i)
 
 recurse()
 ```

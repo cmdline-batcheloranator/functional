@@ -2,13 +2,13 @@ import time
 
 s = time.time()
 
-lst =  []
+x =  []
 
 def recurse(i=0):
     if i == 500:
         return 0
     recurse(i+1)
-    return lst.append(i)
+    return x.append(i)
 
 recurse()
 

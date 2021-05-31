@@ -3,11 +3,11 @@ import time
 s = time.time()
 
 i = 0
-lst =  []
+x =  []
 
 for i in range(500): 
      i += 1
-     lst.append(i)
+     x.append(i)
 
 e = time.time() - s
 
