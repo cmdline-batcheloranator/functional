@@ -70,7 +70,7 @@ recurse()
 
 ` 3.379e-04`
 
-## % Comparison of speeds
+## % and ratio comparison of speeds
 
 list.py is:
 
