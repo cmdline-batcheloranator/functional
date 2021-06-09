@@ -105,5 +105,5 @@ loop.py is:
 - `list()` and `listComprehension` come first in speed
 - no surprise, they are specific to this kind of scenario
 
-- `map()` can do everything else, so dump loops and recursion
+- `map()` or `listComprehension` can do everything else.
 
